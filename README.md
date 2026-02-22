@@ -3,7 +3,7 @@
 This is a simple project based on the assignment of [Chapter 3 of the Rust Book](https://rust-book.cs.brown.edu/ch03-05-control-flow.html#summary).
 This program converts degree fahrenheit to degree celcius and vice-versa.
 
-# How to use it
+## How to use it
 
 > [!IMPORTANT]
 > For NixOS users, please run `nix-develop .`, for other users, make sure you have setup your Rust 
@@ -17,7 +17,7 @@ This program converts degree fahrenheit to degree celcius and vice-versa.
 cargo run
 ```
 
-# What should I expect
+## What should I expect
 
 You should expect to see on your console the following (please follow the prompt):
 
