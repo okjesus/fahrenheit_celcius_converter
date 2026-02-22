@@ -1,4 +1,4 @@
-# Fahrenheit / Celcius converer
+# Fahrenheit / Celcius converter
 
 This is a simple project based on the assignment of [Chapter 3 of the Rust Book](https://rust-book.cs.brown.edu/ch03-05-control-flow.html#summary).
 This program converts degree fahrenheit to degree celcius and vice-versa.
