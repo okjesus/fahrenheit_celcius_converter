@@ -6,7 +6,7 @@ This program converts degree fahrenheit to degree celcius and vice-versa.
 ## How to use it
 
 > [!IMPORTANT]
-> For NixOS users, please run `nix-develop .`, for other users, make sure you have setup your Rust 
+> For NixOS users, please run `nix develop .`, for other users, make sure you have setup your Rust 
 > development environment correctly, otherwise please check [the official documentation](https://rust-lang.org/tools/install/).
 
 
